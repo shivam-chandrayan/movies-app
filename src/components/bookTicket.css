@@ -1,0 +1,12 @@
+#available-true {
+  background-color: #fff;
+  color: #000;
+  border-color: #d3d3d3;
+  outline: 0;
+}
+
+#available-true-success {
+  background-color: #2dc492;
+  color: #fff;
+  outline: 0;
+}
